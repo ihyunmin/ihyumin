@@ -2,10 +2,14 @@
 
 
 <p>
+  <!--
   <a href="https://blog.naver.com/dlgusals005" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  -->
   <a href="mailto:ihyunmin99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ihyunmin99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%ED%98%84%EB%AF%BC-%EC%9D%B4-43387721a/" target="_blank"><img src="https://img.shields.io/badge/HyunminLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <!--
   <a href="https://www.youtube.com/channel/UCQ8XTEz92ElChMLniBCQomQ" target="_blank"><img src="https://img.shields.io/badge/lightstone-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
+  --> 
 </p>
 
 <p>
