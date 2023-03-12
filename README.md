@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  :smile:&nbsp; Hi! I'm <b>Data engineer</b> in toss securities, and I want to <b>make people happy</b> by using my program. 🚀<br/>
+  :smile:&nbsp; Hi! I'm <b>Data engineer</b> in Toss Securities, and I want to <b>make people happy</b> by using my program. 🚀<br/>
   Now, I am interested in data-driven programming and customer centric application which help multiple user.:+1:<br/>
   :fire:I want to be a good influence on people.:fire:<br/><br/>
   I enjoy many sports like :basketball:basketball, work out, and 🎱billiards.<br/><br/>
