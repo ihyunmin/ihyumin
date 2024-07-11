@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=3C3A39&height=130&section=header&text=Lee%20Hyunmin&fontSize=90&animation=fadeIn&desc=Lastone&descSize=30&descAlign=76&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=3C3A39&height=130&section=header&text=Lee%20Hyunmin&fontSize=90&animation=fadeIn&descSize=30&descAlign=76&descAlignY=80)
 
 
 <p>
